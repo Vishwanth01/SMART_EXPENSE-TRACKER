@@ -36,24 +36,6 @@ expense_tracker/
 
 ---
 
-## ▶️ How to Run
-
-1. Install Python (if not installed)
-
-2. Install required library:
-
-```bash
-pip install matplotlib
-```
-
-3. Run the program:
-
-```bash
-python main.py
-```
-
----
-
 ## 📌 How It Works
 
 * Data is stored in a JSON file (`expenses.json`)
